@@ -13,7 +13,7 @@ import { UserModule } from './user/user.module';
       port: 5432,
       username: 'sample',
       password: 'samplePassword',
-      database: 'crud',
+      database: 'sampleDatabase',
       entities: [
         User
       ],
