@@ -11,8 +11,8 @@ import { UserModule } from './user/user.module';
       type: 'postgres',
       host: 'localhost',
       port: 5432,
-      username: 'smarthire',
-      password: 'SmartHireHere',
+      username: 'sample',
+      password: 'samplePassword',
       database: 'crud',
       entities: [
         User
